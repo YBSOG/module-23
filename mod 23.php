@@ -9,7 +9,7 @@ interface VehicleInterface
     public function horn();
 
     public function wipers();
-}
+};
 
 abstract class Vehicle implements VehicleInterface
 {
